@@ -33,6 +33,7 @@ federal Health Resource and Service Administration makes available the Area Heal
     3. create_var_legend()
     4. create_dataframe()
     5. filter_input_features()
+    6. geo_map()
     
 ### Output files
     1. variable_legend.csv --> summarized file with key for data ids 
@@ -44,6 +45,9 @@ federal Health Resource and Service Administration makes available the Area Heal
     county_level_analysis.ipynb  --> jupyter-notebook with analysis code for data cleaning and exploration of the dataset
     health_lvl_analysis_class.py --> python file with class and multiple submethods created for handling the data import, cleaning, and some analysis to work of off
     hlvl_util.py
+    
+### Visualizations
+    - visualizations will be saved to the 'figures' folder as .png file types that can be viewed outside of the notebook
+    
 
-    docs/
         
